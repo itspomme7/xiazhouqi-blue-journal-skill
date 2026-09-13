@@ -1,0 +1,5 @@
+interface:
+  display_name: "下周七 · 蓝色手帐"
+  short_description: "雾蓝奶白的教程信息图与旅行照片封面视觉规范"
+  brand_color: "#9CC9E8"
+  default_prompt: "使用 $xiazhouqi-blue-journal-skill 把我的素材设计成蓝色手帐风格。"
